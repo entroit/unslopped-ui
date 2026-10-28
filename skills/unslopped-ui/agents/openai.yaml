@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unslopped UI"
+  short_description: "Improve frontend clarity, design and interaction"
+  default_prompt: "Use $unslopped-ui to improve this interface while preserving its useful content, brand and working behavior."

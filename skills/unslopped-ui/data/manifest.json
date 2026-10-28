@@ -1,0 +1,43 @@
+{
+  "format_version": 1,
+  "archive": {
+    "file": "design-reference.md",
+    "sha256": "9be913e96876928e9b94b99cdff457152ee3b5b3f334fcb12f5db46785e8882f",
+    "bytes": 2506745,
+    "lines": 15296
+  },
+  "authority": "Archived reference data. Current SKILL.md and relevant references take precedence.",
+  "record_count": 5816,
+  "sources": {
+    "core": {
+      "records": 563
+    },
+    "taste": {
+      "records": 1343
+    },
+    "classics": {
+      "records": 172
+    },
+    "hallmark": {
+      "records": 2031
+    },
+    "ux": {
+      "records": 1329
+    },
+    "impeccable": {
+      "records": 378
+    }
+  },
+  "kind_counts": {
+    "archived-guidance": 563,
+    "brand": 160,
+    "detector": 327,
+    "finding": 1874,
+    "recipe": 425,
+    "source-alternative": 176,
+    "source-note": 2100,
+    "style": 141,
+    "theme": 50
+  },
+  "reconstruction": "Concatenate each record's text in JSONL file order, then encode as UTF-8."
+}
