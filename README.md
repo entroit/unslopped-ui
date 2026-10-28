@@ -7,7 +7,7 @@ An agent skill for clearer, more useful interfaces. Improve hierarchy, typograph
 Run this from your project:
 
 ```sh
-npx skills add Adi2204/unslopped-ui --skill unslopped-ui
+npx skills add entroit/unslopped-ui --skill unslopped-ui
 ```
 
 Choose your coding agent when prompted. Keep the complete skill folder together.
